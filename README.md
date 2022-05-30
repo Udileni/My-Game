@@ -1,2 +1,2 @@
 # My-Game
-Jogo da cobrinha atualizado!
+Jogo da cobrinha atualizad.
